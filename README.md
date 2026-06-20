@@ -7,6 +7,7 @@ A curated list of papers applying Reinforcement Learning to Computer Vision task
 - [Image Registration](#image-registration)
 - [Video Analysis](#video-analysis)
 - [Survey](#survey)
+- [Recent additions](#recent-additions)
 - [Landmark Detection](#landmark-detection)
 
 
@@ -169,6 +170,17 @@ on Medical Image Computing and Computer-Assisted Intervention, pages 344–352. 
 2021
 - Deep Reinforcement Learning in Computer Vision: A Comprehensive Survey: https://arxiv.org/abs/2108.11510
 
+
+
+## Recent additions
+2026 :
+- Fatma Youssef Mohammed, Grzegorz Malczyk, and Kostas Alexis. Fast Human Attention Prediction for Fixation-guided Active Perception in Autonomous Navigation. arXiv preprint arXiv:2606.20491v1 : https://arxiv.org/abs/2606.20491v1
+- Chengwen Liu, Hao Peng, Jisheng Dang, Hong Peng, Bin Hu, and Tat-Seng Chua. CARE: Competence-Aware Reward Shaping for Adaptive Reasoning Length in Video-MLLMs. arXiv preprint arXiv:2606.19927v1 : https://arxiv.org/abs/2606.19927v1
+- Seyed Alireza Azimi, Homayoon Farrahi, Abhishek Naik, Colin Bellinger, and A. Rupam Mahmood. Benchmarking Action Spaces in Reinforcement Learning for Vision-based Robotic Manipulation. arXiv preprint arXiv:2606.18594v1 : https://arxiv.org/abs/2606.18594v1
+- Mukund Khanna, Raj Singh Yadav, and Kunal Singh. ProductConsistency: Improving Product Identity Preservation in Instruction-Based Image Editing via SFT and RL. arXiv preprint arXiv:2606.19103v1 : https://arxiv.org/abs/2606.19103v1
+- Yilian Liu, Sicong Leng, Guoshun Nan, Junyi Zhu, Jiayu Huang, Minghao Sun, Xuancheng Zhu, Yisong Chen, Zexian Wei, and Xiaofeng Tao. See First, Answer Later: Visual Evidence Pre-Alignment via Sufficiency-Driven RL. arXiv preprint arXiv:2606.17678v1 : https://arxiv.org/abs/2606.17678v1
+- Saraswathy Amjith. Self-Questioning Vision-Language Models: Reinforcement Learning for Compositional Visual Reasoning. arXiv preprint arXiv:2606.15651v1 : https://arxiv.org/abs/2606.15651v1
+- Mohamed Bayan Kmainasi, Mucahid Kutlu, Ali Ezzat Shahroor, Abul Hasnat, and Firoj Alam. Adapting Reinforcement Learning with Chain-of-Thought Supervision for Explainable Detection of Hateful and Propagandistic Memes. arXiv preprint arXiv:2606.15307v1 : https://arxiv.org/abs/2606.15307v1
 
 # Contribute
 A paper is missing ? don't hesitate to open an issue or pull-request to keep the repository updated 😊
